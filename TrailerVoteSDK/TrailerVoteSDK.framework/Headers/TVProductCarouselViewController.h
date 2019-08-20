@@ -1,0 +1,36 @@
+//////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////
+////TVProductCarouselViewController.h/////////////////////
+//////////////////////////////////////////////////////////
+////TrailerVoteSDK////////////////////////////////////////
+//////////////////////////////////////////////////////////
+////Copyright © 2018 TrailerVote. All rights reserved.////
+//////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////
+
+
+#import <UIKit/UIKit.h>
+
+
+/**
+ View controller that presents the product carousel feed
+ */
+__attribute__((visibility("default")))
+@interface TVProductCarouselViewController : UIViewController <UICollectionViewDataSource, UICollectionViewDelegate, UICollectionViewDelegateFlowLayout>
+
+/**
+ :nodoc:
+ */
+- (nonnull instancetype)init NS_UNAVAILABLE;
+
+/**
+ :nodoc:
+ */
+- (nonnull TVProductCarouselViewController *)new NS_UNAVAILABLE;
+
+/**
+ Reloads the feed
+ */
+- (void)reloadFeed;
+
+@end

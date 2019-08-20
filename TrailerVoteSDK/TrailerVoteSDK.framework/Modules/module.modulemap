@@ -1,0 +1,6 @@
+framework module TrailerVoteSDK {
+  umbrella header "TrailerVoteSDK.h"
+
+  export *
+  module * { export * }
+}
