@@ -82,7 +82,7 @@ Pod::Spec.new do |s|
 
   #s.source       = { :git => "https://github.com/TrailerVote/TrailerVoteSDK-iOS-Pod.git", :tag => "1.1.0" }
 
-  s.source        = { :http => "http://pods.dev.trailervote.com/TrailerVoteSDK-1.1.0.framework.zip" }
+  s.source        = { :http => "https://pods.dev.trailervote.com/TrailerVoteSDK-1.1.0.framework.zip" }
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
