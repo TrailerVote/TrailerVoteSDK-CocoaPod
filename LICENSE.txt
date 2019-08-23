@@ -1,0 +1,140 @@
+TrailerVote SDK License Agreement
+
+
+Last modified: August 22, 2019
+
+To get started with the TrailerVote SDK, you must agree to the following terms and conditions.  This is the TrailerVote SDK License Agreement (the "License Agreement").
+
+1. Introduction
+
+
+1.1 The TrailerVote Software Development Kit (referred to in the License Agreement as the "TrailerVote SDK" and specifically including the TrailerVote SDK files, packaged APIs, and SDK library files, if and when they are made available) is licensed to you subject to the terms of the License Agreement. The License Agreement forms a legally binding contract between you and TrailerVote in relation to your use of the TrailerVote SDK.
+
+1.2 "TrailerVote" means TrailerVote Corporation, a Delaware corporation with principal place of business at 1428 Knowlton Drive, Sunnyvale, CA 94087, United States.
+
+
+2. Accepting the License Agreement
+
+
+2.1 In order to use the TrailerVote SDK, you must first agree to the License Agreement. You may not use the TrailerVote SDK if you do not accept the License Agreement.
+
+2.2 By clicking to accept and/or using the TrailerVote SDK, you hereby agree to the terms of the License Agreement.
+
+2.3 You may not use the TrailerVote SDK and may not accept the License Agreement if you are a person barred from receiving the TrailerVote SDK under the laws of the United States or other countries including the country in which you are resident or from which you use the TrailerVote SDK.
+
+2.4 If you will use the TrailerVote SDK internally within your company or organization you agree to be bound by the License Agreement on behalf of your employer or other entity, and you represent and warrant that you have full legal authority to bind your employer or such entity to the License Agreement. If you do not have the requisite authority, you may not accept the License Agreement or use the TrailerVote SDK on behalf of your employer or other entity.
+
+3. TrailerVote SDK License from TrailerVote
+
+3.1 Subject to the terms of this License Agreement, TrailerVote grants you a limited, worldwide, royalty-free, non-assignable, non-exclusive, and non-sublicensable license to use the TrailerVote SDK solely to add trailer rating and remarketing capabilities for movie-ticketing applications.
+
+3.2 You may not use this TrailerVote SDK to develop applications for other purposes (including non-compatible implementations of Android) or to develop another SDK. You are of course free to develop applications for other platforms, including non-compatible implementations of Android, provided that this TrailerVote SDK is not used for that purpose.
+
+3.3 You agree that TrailerVote or third parties owns all legal right, title and interest in and to the TrailerVote SDK, including any Intellectual Property Rights that subsist in the TrailerVote SDK. "Intellectual Property Rights" means any and all rights under patent law, copyright law, trade secret law, trademark law, and any and all other proprietary rights. TrailerVote reserves all rights not expressly granted to you.
+
+3.4 You may not use the TrailerVote SDK for any purpose not expressly permitted by the License Agreement. Except to the extent required by applicable third party licenses, you may not copy (except for backup purposes), modify, adapt, redistribute, decompile, reverse engineer, disassemble, or create derivative works of the TrailerVote SDK or any part of the TrailerVote SDK.
+
+3.5 Use, reproduction and distribution of components of the TrailerVote SDK licensed under an open source software license are governed solely by the terms of that open source software license and not the License Agreement. You agree to remain a licensee in good standing in regard to such open source software licenses under all the rights granted and to refrain from any actions that may terminate, suspend, or breach such rights.
+
+3.6 You agree that the form and nature of the TrailerVote SDK that TrailerVote provides may change without prior notice to you and that future versions of the TrailerVote SDK may be incompatible with applications developed on previous versions of the TrailerVote SDK. You agree that TrailerVote may stop (permanently or temporarily) providing the TrailerVote SDK (or any features within the TrailerVote SDK) to you or to users generally at TrailerVote's sole discretion, without prior notice to you.
+
+3.7 Nothing in the License Agreement gives you a right to use any of TrailerVote's trade names, trademarks, service marks, logos, domain names, or other distinctive brand features.
+
+3.8 You agree that you will not remove, obscure, or alter any proprietary rights notices (including copyright and trademark notices) that may be affixed to or contained within the TrailerVote SDK.
+
+4. Use of the TrailerVote SDK by You
+
+
+4.1 TrailerVote agrees that nothing in the License Agreement gives TrailerVote any right, title or interest from you (or your licensors) under the License Agreement in or to any software applications that you develop using the TrailerVote SDK, including any intellectual property rights that subsist in those applications.
+
+4.2 You agree to use the TrailerVote SDK and write applications only for purposes that are permitted by (a) the License Agreement, and (b) any applicable law, regulation or generally accepted practices or guidelines in the relevant jurisdictions (including any laws regarding the export of data or software to and from the United States or other relevant countries).
+
+4.3 You agree that if you use the TrailerVote SDK to capture interest data for trailers in your app, you will not attempt to listen to, modify or interefere with the end to end experience rendered by the TrailerVote SDK.
+
+4.4 You agree that you will not engage in any activity with the TrailerVote SDK, including the development or distribution of an application, that interferes with, disrupts, damages, or accesses in an unauthorized manner the servers, networks, or other properties or services of TrailerVote or any third party.
+
+4.5 You agree that you are solely responsible for (and that TrailerVote has no responsibility to you or to any third party for) any data, content, or resources that you create, transmit or display within your app, and for the consequences of your actions (including any loss or damage which TrailerVote may suffer) by doing so.
+
+4.6 You agree that you are solely responsible for (and that TrailerVote has no responsibility to you or to any third party for) any breach of your obligations under the License Agreement, any applicable third party contract or Terms of Service, or any applicable law or regulation, and for the consequences (including any loss or damage which TrailerVote or any third party may suffer) of any such breach.
+
+4.7 You understand and agree that this License Agreement only provides rights to use the TrailerVote SDK for trial purposes and that you will enter into a commercial agreement ("Platform Services Agreement") with TrailerVote to obtain the right to sell, exploit, distribute or otherwise use the TrailerVote SDK past a trial or pilot. The Distribution Agreement will control in the event of a conflict with this License Agreement.
+
+5. Your Developer Credentials
+
+
+You agree that you are responsible for maintaining the confidentiality of any developer credentials that may be issued to you by TrailerVote or which you may choose yourself and that you will be solely responsible for all applications that are developed under your developer credentials.
+
+6. Privacy and Information
+
+
+6.1 In order to continually innovate and improve the TrailerVote SDK, TrailerVote may collect certain usage statistics from the software including but not limited to a unique identifier, associated IP address, version number of the software, crash reports, and information on which tools and/or services in the TrailerVote SDK are being used and how they are being used. Before any of this information is collected, you will be asked for consent. If you withhold consent, the information will not be collected.
+
+6.2 The data collected is examined in the aggregate to improve the TrailerVote SDK and is maintained in accordance with TrailerVote's Privacy Policy located at http://www.trailervote.com/privacy/.
+
+
+8. Using TrailerVote APIs
+
+
+8.1 If you use any API to retrieve data from trailerVote, you acknowledge that the data may be protected by intellectual property rights which are owned by TrailerVote or those parties that provide the data (or by other persons or companies on their behalf). Your use of any such API may be subject to additional Terms of Service. You may not modify, rent, lease, loan, sell, distribute or create derivative works based on this data (either in whole or in part) unless allowed by the relevant Terms of Service.
+
+8.2 If you use any API to retrieve a user's data from TrailerVote, you acknowledge and agree that you shall retrieve data only with the user's explicit consent and only when, and for the limited purposes for which, the user has given you permission to do so.
+
+9. Terminating the License Agreement
+
+
+9.1 The License Agreement will continue to apply until terminated by either you or TrailerVote as set out below.
+
+9.2 If you want to terminate the License Agreement, you may do so by ceasing your use of the TrailerVote SDK and any relevant developer credentials.
+
+9.3 TrailerVote may at any time, terminate the License Agreement with you if:
+(A) you have breached any provision of the License Agreement; or
+(B) TrailerVote is required to do so by law; or
+(C) the partner with whom TrailerVote offered certain parts of SDK (such as APIs) to you has terminated its relationship with TrailerVote or ceased to offer certain parts of the SDK to you; or
+(D) TrailerVote decides to no longer provide the SDK or certain parts of the SDK to users in the country in which you are resident or from which you use the service, or the provision of the SDK or certain SDK services to you by TrailerVote is, in TrailerVote's sole discretion, no longer commercially viable.
+
+9.4 When the License Agreement comes to an end, all of the legal rights, obligations and liabilities that you and TrailerVote have benefited from, been subject to (or which have accrued over time whilst the License Agreement has been in force) or which are expressed to continue indefinitely, shall be unaffected by this cessation, and the provisions of paragraph 14.7 shall continue to apply to such rights, obligations and liabilities indefinitely.
+
+10. DISCLAIMERS
+
+
+10.1 YOU EXPRESSLY UNDERSTAND AND AGREE THAT YOUR USE OF THE TRAILERVOTE SDK IS AT YOUR SOLE RISK AND THAT THE TRAILERVOTE SDK AND ANY SUPPORTING WORK IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTY OF ANY KIND FROM TRAILERVOTE. 
+
+10.2 YOUR USE OF THE TRAILERVOTE SDK AND ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE TRAILERVOTE SDK IS AT YOUR OWN DISCRETION AND RISK AND YOU ARE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR OTHER DEVICE OR LOSS OF DATA THAT RESULTS FROM SUCH USE. WITHOUT LIMITING THE FOREGOING, YOU UNDERSTAND THAT THE TrailerVote SDK MAY CONTAIN ERRORS, DEFECTS AND SECURITY VULNERABILITIES THAT CAN RESULT IN SIGNIFICANT DAMAGE, INCLUDING THE COMPLETE, IRRECOVERABLE LOSS OF USE OF YOUR COMPUTER SYSTEM OR OTHER DEVICE.
+
+10.3 TRAILERVOTE FURTHER EXPRESSLY DISCLAIMS ALL WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+11. LIMITATION OF LIABILITY
+
+
+WHEN PERMITTED BY LAW, TRAILERVOTE, AND TRAILERVOTE'S SUPPLIERS AND DISTRIBUTORS, WILL NOT BE RESPONSIBLE FOR LOST PROFITS, REVENUES, OR DATA; FINANCIAL LOSSES; OR INDIRECT, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES.
+
+TO THE EXTENT PERMITTED BY LAW, THE TOTAL LIABILITY OF TRAILERVOTE, AND ITS SUPPLIERS AND DISTRIBUTORS, FOR ANY CLAIM UNDER THE TERMS, INCLUDING FOR ANY IMPLIED WARRANTIES, IS LIMITED TO THE AMOUNT YOU PAID US TO USE THE TRAILERVOTE SDK (OR, IF WE CHOOSE, TO SUPPLYING YOU THE TrailerVote SDK AGAIN) DURING THE SIX MONTHS PRIOR TO THE EVENT GIVING RISE TO THE LIABILITY.
+
+IN ALL CASES, TRAILERVOTE, AND ITS SUPPLIERS AND DISTRIBUTORS, WILL NOT BE LIABLE FOR ANY EXPENSE, LOSS, OR DAMAGE THAT IS NOT REASONABLY FORESEEABLE.
+
+12. Indemnification
+
+
+To the maximum extent permitted by law, you agree to defend, indemnify and hold harmless TrailerVote, its affiliates and their respective directors, officers, employees and agents from and against any and all claims, actions, suits or proceedings, as well as any and all losses, liabilities, damages, costs and expenses (including reasonable attorneys’ fees) arising out of or accruing from (a) your use of the TrailerVote SDK, (b) any application you develop with the TrailerVote SDK that infringes any Intellectual Property Rights of any person or defames any person or violates their rights of publicity or privacy, and (c) any non-compliance by you of the License Agreement.
+
+13. Changes to the License Agreement
+
+
+TrailerVote may make changes to the License Agreement as it distributes new versions of the TrailerVote SDK. When these changes are made, TrailerVote will make a new version of the License Agreement available on the portal where the TrailerVote SDK is made available.
+
+14. General Legal Terms
+
+
+14.1 The License Agreement constitutes the whole legal agreement between you and TrailerVote and governs your use of the TrailerVote SDK (excluding any services which TrailerVote may provide to you under a separate written agreement), and completely replaces any prior agreements between you and TrailerVote in relation to the TrailerVote SDK.
+
+14.2 You agree that if TrailerVote does not exercise or enforce any legal right or remedy which is contained in the License Agreement (or which TrailerVote has the benefit of under any applicable law), this will not be taken to be a formal waiver of TrailerVote's rights and that those rights or remedies will still be available to TrailerVote.
+
+14.3 If any court of law, having the jurisdiction to decide on this matter, rules that any provision of the License Agreement is invalid, then that provision will be removed from the License Agreement without affecting the rest of the License Agreement. The remaining provisions of the License Agreement will continue to be valid and enforceable.
+
+14.4 You acknowledge and agree that other than TrailerVote, no other person or company shall be third party beneficiaries to the License Agreement.
+
+14.5 EXPORT RESTRICTIONS. THE TRAILERVOTE SDK IS SUBJECT TO UNITED STATES EXPORT LAWS AND REGULATIONS. YOU MUST COMPLY WITH ALL DOMESTIC AND INTERNATIONAL EXPORT LAWS AND REGULATIONS THAT APPLY TO THE TRAILERVOTE SDK. THESE LAWS INCLUDE RESTRICTIONS ON DESTINATIONS, END USERS AND END USE.
+
+14.6 The License Agreement may not be assigned or transferred by you without the prior written approval of TrailerVote, and any attempted assignment without such approval will be void. You shall not delegate your responsibilities or obligations under the License Agreement without the prior written approval of TrailerVote.
+
+14.7 The License Agreement, and your relationship with TrailerVote under the License Agreement, shall be governed by the laws of the State of California without regard to its conflict of laws provisions. You and TrailerVote agree to submit to the exclusive jurisdiction of the courts located within the county of Santa Clara, California to resolve any legal matter arising from the License Agreement. Notwithstanding this, you agree that TrailerVote shall still be allowed to apply for injunctive remedies (or an equivalent type of urgent legal relief) in any jurisdiction.
