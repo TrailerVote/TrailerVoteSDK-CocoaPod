@@ -43,7 +43,7 @@ Pod::Spec.new do |s|
   #
 
   # s.license      = "MIT (example)"
-  s.license      = { :type => "Commercial", :file => "LICENSE.txt" }
+  s.license      = { :type => "Commercial", :file => "TrailerVoteSDK-1.1.0.framework/LICENSE.txt" }
 
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -92,12 +92,12 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "TrailerVoteSDK/TrailerVoteSDK.framework/Headers/*.h"
+  s.source_files  = "TrailerVoteSDK-1.1.0.framework/TrailerVoteSDK/TrailerVoteSDK.framework/Headers/*.h"
   # s.exclude_files = "Classes/Exclude"
 
-  s.public_header_files = "TrailerVoteSDK/TrailerVoteSDK.framework/Headers/*.h"
+  s.public_header_files = "TrailerVoteSDK-1.1.0.framework/TrailerVoteSDK/TrailerVoteSDK.framework/Headers/*.h"
 
-  s.vendored_frameworks = "TrailerVoteSDK/TrailerVoteSDK.framework"
+  s.vendored_frameworks = "TrailerVoteSDK-1.1.0.framework/TrailerVoteSDK/TrailerVoteSDK.framework"
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -111,7 +111,7 @@ Pod::Spec.new do |s|
   # s.resource  = "icon.png"
   # s.resources = "Resources/*.png"
 
-  s.preserve_paths = "TrailerVoteSDK/TrailerVoteSDK.framework/*"
+  s.preserve_paths = "TrailerVoteSDK-1.1.0.framework/TrailerVoteSDK/TrailerVoteSDK.framework/*"
 
 
   # ――― Project Linking ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
