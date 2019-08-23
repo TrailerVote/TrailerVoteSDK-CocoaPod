@@ -80,7 +80,8 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/TrailerVote/TrailerVoteSDK-iOS-Pod.git", :tag => "1.1.0" }
+  #  s.source       = { :git => "https://github.com/TrailerVote/TrailerVoteSDK-iOS-Pod.git", :tag => "1.1.0" }
+  s.source = { :http => "https://github.com/TrailerVote/TrailerVoteSDK-CocoaPod/archive/1.1.0.zip" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
