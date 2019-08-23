@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "TrailerVoteSDK"
-  s.version      = "1.0.0"
+  s.version      = "1.1.0"
   s.summary      = "An official TrailerVote iOS SDK"
 
   # This description is used to generate tags and improve search results.
@@ -25,7 +25,10 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
-An official TrailerVote SDK for iOS platform
+  TrailerVote SDK for iOS is a proprietary marketing platform
+  for any movie ticketing app that enables capturing people's
+  interests in movie trailers and can be configured to show
+  reminders when the movie goes on sale in the app.
                    DESC
 
   s.homepage     = "https://trailervote.com"
@@ -40,7 +43,7 @@ An official TrailerVote SDK for iOS platform
   #
 
   # s.license      = "MIT (example)"
-  s.license      = { :type => "MIT", :file => "LICENSE" }
+  s.license      = { :file => "LICENSE" }
 
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -53,10 +56,7 @@ An official TrailerVote SDK for iOS platform
   #  profile URL.
   #
 
-  # s.author             = { "KRUBERLICK" => "kruberlick@gmail.com" }
-  s.author    = "TrailerVote"
-  # s.authors            = { "KRUBERLICK" => "kruberlick@gmail.com" }
-  # s.social_media_url   = "http://twitter.com/KRUBERLICK"
+  s.author    = "TrailerVote Corporation"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
