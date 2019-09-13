@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "TrailerVoteSDK"
-  s.version      = "1.1.0"
+  s.version      = "1.1.1"
   s.summary      = "An official TrailerVote iOS SDK"
 
   # This description is used to generate tags and improve search results.
@@ -43,7 +43,7 @@ Pod::Spec.new do |s|
   #
 
   # s.license      = "MIT (example)"
-  s.license      = { :type => "Commercial", :file => "TrailerVoteSDK-1.1.0.framework/LICENSE.txt" }
+  s.license      = { :type => "Commercial", :file => "LICENSE.txt" }
 
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -82,7 +82,7 @@ Pod::Spec.new do |s|
 
   #s.source       = { :git => "https://github.com/TrailerVote/TrailerVoteSDK-iOS-Pod.git", :tag => "1.1.0" }
 
-  s.source        = { :http => "https://pods.dev.trailervote.com/TrailerVoteSDK-1.1.0.framework.zip" }
+  s.source        = { :http => "https://pods.dev.trailervote.com/TrailerVoteSDK-1.1.1.framework.zip" }
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
@@ -92,12 +92,12 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "TrailerVoteSDK-1.1.0.framework/TrailerVoteSDK/TrailerVoteSDK.framework/Headers/*.h"
+  s.source_files  = "TrailerVoteSDK/TrailerVoteSDK.framework/Headers/*.h"
   # s.exclude_files = "Classes/Exclude"
 
-  s.public_header_files = "TrailerVoteSDK-1.1.0.framework/TrailerVoteSDK/TrailerVoteSDK.framework/Headers/*.h"
+  s.public_header_files = "TrailerVoteSDK/TrailerVoteSDK.framework/Headers/*.h"
 
-  s.vendored_frameworks = "TrailerVoteSDK-1.1.0.framework/TrailerVoteSDK/TrailerVoteSDK.framework"
+  s.vendored_frameworks = "TrailerVoteSDK/TrailerVoteSDK.framework"
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -111,7 +111,7 @@ Pod::Spec.new do |s|
   # s.resource  = "icon.png"
   # s.resources = "Resources/*.png"
 
-  s.preserve_paths = "TrailerVoteSDK-1.1.0.framework/TrailerVoteSDK/TrailerVoteSDK.framework/*"
+  s.preserve_paths = "TrailerVoteSDK/TrailerVoteSDK.framework/*"
 
 
   # ――― Project Linking ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -120,8 +120,8 @@ Pod::Spec.new do |s|
   #  the lib prefix of their name.
   #
 
-  # s.framework  = "SomeFramework"
-  s.frameworks = "Foundation", "UIKit"
+  s.framework  = "UIKit"
+  #s.frameworks = "Foundation", "UIKit"
 
   # s.library   = "iconv"
   # s.libraries = "iconv", "xml2"
