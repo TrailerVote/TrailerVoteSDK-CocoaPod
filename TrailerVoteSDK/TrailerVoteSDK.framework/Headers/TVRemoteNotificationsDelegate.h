@@ -29,4 +29,8 @@
  */
 - (void)openTrailerRecognition;
 
+/// Called when the received remote notification's action requires a web view to be shown for the given url
+/// @param url Url to show in web view
+- (void)presentWebViewForURL:(nonnull NSURL *)url;
+
 @end
