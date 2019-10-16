@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		yX9tI5DV/4W+MdIX7bM64oXeZsw=
+		Y9yuttQ2CxpjO3NgpN+Rf/2U5Bk=
 		</data>
 		<key>Headers/TVAudioRecognitionViewControllerNewDelegate.h</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		KkqMkauR941q8ezpV30aodCAlJY=
+		pJ9qCdvB4DZSN4vVw+llXWLd6iY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -567,11 +567,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yX9tI5DV/4W+MdIX7bM64oXeZsw=
+			Y9yuttQ2CxpjO3NgpN+Rf/2U5Bk=
 			</data>
 			<key>hash2</key>
 			<data>
-			hWYt1bAFBwpWqCpH+5H+gF9xQT6NWxvL9xCWBdp2XxE=
+			HwTLQJAHSfRR2uvOLLJunxI6/AKhgu5puCPijOf0P7c=
 			</data>
 		</dict>
 		<key>Headers/TVAudioRecognitionViewControllerNewDelegate.h</key>
