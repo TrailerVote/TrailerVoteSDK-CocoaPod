@@ -4,7 +4,7 @@
 //////////////////////////////////////////////////////////
 ////TrailerVoteSDK////////////////////////////////////////
 //////////////////////////////////////////////////////////
-////Copyright © 2018 TrailerVote. All rights reserved.////
+////Copyright © 2019 TrailerVote. All rights reserved.////
 //////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////
 
@@ -46,21 +46,6 @@ __attribute__((visibility("default")))
 + (nonnull TVTrailerVoteFactory *)new NS_UNAVAILABLE;
 
 /**
- This method should be called first prior to any other calls on the factory class. Please provide your credentials in order to initialize the SDK
-
- @param username Username
- @param password Password
- */
-+ (void)setupCredentialsWithUsername:(nonnull NSString *)username password:(nonnull NSString *)password;
-
-/**
- This method should be called prior to -sharedFactory for analytics and remote notifications capabilities
-
- @param token Your analytics token
- */
-+ (void)setupAnalyticsToken:(nonnull NSString *)token;
-
-/**
  Use this method to set the pre-load mode for loading images. The default value is TVPreloadModeNormal which loads all images during the pre-load process.
 
  @param preloadMode Preload mode to set
@@ -94,12 +79,9 @@ __attribute__((visibility("default")))
  */
 - (void)launchDataPreload;
 
-/**
- Registers the provided device ID and activates the push notifications capability
-
- @param deviceID A device token string received from -[UIApplicationDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:]
- */
-- (void)enablePushNotificationsWithDeviceID:(nonnull NSString *)deviceID;
+/// Sets the remote notifications device token to use for registering to remote notifications
+/// @param token Device registration token
+- (void)setRemoteNotificationsDeviceToken:(nonnull NSString *)token;
 
 /**
  Turns off the push notifications capability for the current device
@@ -126,6 +108,11 @@ __attribute__((visibility("default")))
  @return An initialized provider class
  */
 - (nonnull TVVoteDataProvider *)voteDataProvider;
+
+/// Returns a ready-to-use button for launching the In-Cinema Experience screen
+/// @param hostViewController View controller to use for presenting the screen
+/// @param recognitionDelegate Audio recognition delegate
+- (nonnull UIButton *)inCinemaExperienceButtonWithHostViewController:(nonnull UIViewController *)hostViewController recognitionDelegate:(nullable id<TVAudioRecognitionViewControllerNewDelegate>)recognitionDelegate;
 
 /**
  Provides the product carousel feed view controller that can be embedded into specified parent view controller and parent view
@@ -157,6 +144,7 @@ __attribute__((visibility("default")))
  Presents the trailer recognition screen from specified host view controller
 
  @param hostViewController View controller to use for presenting the modal screen
+ @param recognitionDelegate Audio recognition delegate
  */
 - (void)presentTrailerRecognitionViewController:(nonnull UIViewController *)hostViewController recognitionDelegate:(nullable id<TVAudioRecognitionViewControllerNewDelegate>)recognitionDelegate;
 

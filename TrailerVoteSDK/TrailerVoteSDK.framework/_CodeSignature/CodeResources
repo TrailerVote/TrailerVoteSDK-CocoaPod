@@ -6,51 +6,51 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		Y9yuttQ2CxpjO3NgpN+Rf/2U5Bk=
+		cqLzRm+B/3pkvyqKoG8sFh6VIco=
 		</data>
 		<key>Headers/TVAudioRecognitionViewControllerNewDelegate.h</key>
 		<data>
-		lVv7dq6SxkZ+E/uyiD0tsytmJes=
+		IzSz4OPrXAYCJO4zpGBDsXhLm5Q=
 		</data>
 		<key>Headers/TVAudioRecognizerDelegate.h</key>
 		<data>
-		pT96sCB4d3hfYcX50RRYlYBTJWM=
+		pf3nrbQZwN1oGhDphM9CTBNA3s8=
 		</data>
 		<key>Headers/TVPreloadMode.h</key>
 		<data>
-		J1unSaCecpHjjfcyfw4AcUdXOeQ=
+		YutxKo7/lizDIlTInDmbTfV3pl8=
 		</data>
 		<key>Headers/TVProductCarouselViewController.h</key>
 		<data>
-		0qlP9h+faEO41+q/TopCAHel3zY=
+		eAtCUhetu81E9XeKDtcXVRJZzl0=
 		</data>
 		<key>Headers/TVRemoteNotificationsDelegate.h</key>
 		<data>
-		QUl2hJdtYZE4ijWGHIjlow/LXZs=
+		qIwcyA3ziNjqghut1h/6Mdod5/E=
 		</data>
 		<key>Headers/TVTrailerVoteFactory.h</key>
 		<data>
-		1hW0tfe6cz2J/zsp98uk2xl1bqI=
+		FO1ywPsI6pLalMtR3gugHNEqyeg=
 		</data>
 		<key>Headers/TVUserInterestSubmitType.h</key>
 		<data>
-		7kF7MKjBhQXUNoiQE9s6DYuosG4=
+		q0EAx1Z+cfDaTkvmuMfWDmDdQ1U=
 		</data>
 		<key>Headers/TVVoteDataProvider.h</key>
 		<data>
-		wumuN9lJmLil8ev1xM9hCJ+rC9Q=
+		intir0vi2BX/LaN72XAcWSZ0uGo=
 		</data>
 		<key>Headers/TVVotedTrailersFeedViewController.h</key>
 		<data>
-		SavPNU4DF+byLK4vRU7kMHYRh6U=
+		aJv4KrRwnEdnZas7CiSFINxQ3JU=
 		</data>
 		<key>Headers/TrailerVoteSDK.h</key>
 		<data>
-		5b3/WwyrGCehG51ViBOoj3nR2gE=
+		SN4/CYeIoxGO65abfXE/Yl7wJO0=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		pJ9qCdvB4DZSN4vVw+llXWLd6iY=
+		wPyTowDp9z4P5/Q4lP17S0iudpg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -567,121 +567,121 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Y9yuttQ2CxpjO3NgpN+Rf/2U5Bk=
+			cqLzRm+B/3pkvyqKoG8sFh6VIco=
 			</data>
 			<key>hash2</key>
 			<data>
-			HwTLQJAHSfRR2uvOLLJunxI6/AKhgu5puCPijOf0P7c=
+			LDEu3NYZUeYR2jPnaEVcNJwtDmMq7uDZnki/BEwAj8U=
 			</data>
 		</dict>
 		<key>Headers/TVAudioRecognitionViewControllerNewDelegate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lVv7dq6SxkZ+E/uyiD0tsytmJes=
+			IzSz4OPrXAYCJO4zpGBDsXhLm5Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			WRPYVDzHpbuy5lL9lN96MVt+mSSSwecdUezwTDZ1d8U=
+			MZMhUVoT63Xrjf4BqnCY6bS0oGhJ0Dw8y2ZliRHJ7K0=
 			</data>
 		</dict>
 		<key>Headers/TVAudioRecognizerDelegate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pT96sCB4d3hfYcX50RRYlYBTJWM=
+			pf3nrbQZwN1oGhDphM9CTBNA3s8=
 			</data>
 			<key>hash2</key>
 			<data>
-			MtkTdxdjS3Dda1aAZeuM68UHrK5Gy/7YAUUI5BYtIpA=
+			oEkvIvzL6owpQA4Lk+UGuzDy9N6Y/CoJLe35/+DaXXM=
 			</data>
 		</dict>
 		<key>Headers/TVPreloadMode.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			J1unSaCecpHjjfcyfw4AcUdXOeQ=
+			YutxKo7/lizDIlTInDmbTfV3pl8=
 			</data>
 			<key>hash2</key>
 			<data>
-			kuuCOnAV+PgCVsS9DCbRxWV654J1D96bjkYqEoQsjgo=
+			sOvKRB/lVKQpYnkPR8mrlk/gXoQxzvNaSRi/Wu+8M+E=
 			</data>
 		</dict>
 		<key>Headers/TVProductCarouselViewController.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0qlP9h+faEO41+q/TopCAHel3zY=
+			eAtCUhetu81E9XeKDtcXVRJZzl0=
 			</data>
 			<key>hash2</key>
 			<data>
-			OU0wXxIzBakwm+mh53ftbdfK+d7zmmIMU7AeKg6vgDc=
+			TW8Btk5uStBXSlhmB2KYepTbN+JUgI+qQHvAe7t9gFk=
 			</data>
 		</dict>
 		<key>Headers/TVRemoteNotificationsDelegate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QUl2hJdtYZE4ijWGHIjlow/LXZs=
+			qIwcyA3ziNjqghut1h/6Mdod5/E=
 			</data>
 			<key>hash2</key>
 			<data>
-			6hBzi/WSDhcM78KL/HQZbEczmt604QoKfruRSMzylEQ=
+			x7N75d0JaidV+PMRL8IdF2NCe3rltoMQNhWB56H7x6o=
 			</data>
 		</dict>
 		<key>Headers/TVTrailerVoteFactory.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1hW0tfe6cz2J/zsp98uk2xl1bqI=
+			FO1ywPsI6pLalMtR3gugHNEqyeg=
 			</data>
 			<key>hash2</key>
 			<data>
-			tjVGGT05z3Yko4h3Miy6z+DcZw3Nad9GOsk0zM6gnp0=
+			uHdlytJAoLcoGcbEhNq36L1qxEHKMwjBb6zaMeWM+eA=
 			</data>
 		</dict>
 		<key>Headers/TVUserInterestSubmitType.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7kF7MKjBhQXUNoiQE9s6DYuosG4=
+			q0EAx1Z+cfDaTkvmuMfWDmDdQ1U=
 			</data>
 			<key>hash2</key>
 			<data>
-			BwtnnHJfgTAIgURwfu2O4pWiX8vtzTsIl7qkdiWx4Ho=
+			FlQ08wwQ3CzbhTbO/PI8VmioEAThgBAgG3YeEAjWkV8=
 			</data>
 		</dict>
 		<key>Headers/TVVoteDataProvider.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wumuN9lJmLil8ev1xM9hCJ+rC9Q=
+			intir0vi2BX/LaN72XAcWSZ0uGo=
 			</data>
 			<key>hash2</key>
 			<data>
-			MfhLnC4rdkTLR6F4OCaL5jfgt+PdArvcLQ0qUz3yLys=
+			VGNcdv+1amUdbiscOCKNXYpvFQbTbE/b9AJbjH19VaY=
 			</data>
 		</dict>
 		<key>Headers/TVVotedTrailersFeedViewController.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			SavPNU4DF+byLK4vRU7kMHYRh6U=
+			aJv4KrRwnEdnZas7CiSFINxQ3JU=
 			</data>
 			<key>hash2</key>
 			<data>
-			P8ktjY5KJE0ExGFJWTcB55p6ZL+8Cs54GX5vDd3TwAw=
+			PU2yuyscABwNLT6NfoSqPvQh8IdL9hS87P1asr4DLVQ=
 			</data>
 		</dict>
 		<key>Headers/TrailerVoteSDK.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5b3/WwyrGCehG51ViBOoj3nR2gE=
+			SN4/CYeIoxGO65abfXE/Yl7wJO0=
 			</data>
 			<key>hash2</key>
 			<data>
-			ccA8A8Oveo+5Rsj9fbovZ2SdiOE/au436Azs5f1Gf98=
+			ti5VZmknZrniutPwWBz5PmNa04MtQAPHgBnaCJmYFSw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

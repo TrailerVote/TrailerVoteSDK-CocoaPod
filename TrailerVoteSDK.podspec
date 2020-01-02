@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "TrailerVoteSDK"
-  s.version      = "1.2.0"
+  s.version      = "1.2.6"
   s.summary      = "An official TrailerVote iOS SDK"
 
   # This description is used to generate tags and improve search results.
@@ -81,7 +81,7 @@ Pod::Spec.new do |s|
 
   #s.source       = { :git => "https://github.com/TrailerVote/TrailerVoteSDK-iOS-Pod.git", :tag => "1.1.0" }
 
-  s.source        = { :http => "https://pods.dev.trailervote.com/TrailerVoteSDK-1.2.0.framework.zip" }
+  s.source        = { :http => "https://pods.dev.trailervote.com/TrailerVoteSDK-1.2.6.framework.zip" }
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
@@ -136,5 +136,7 @@ Pod::Spec.new do |s|
 
   # s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
   # s.dependency "JSONKit", "~> 1.4"
+
+  s.dependency "Countly", "~> 19.08"
 
 end
