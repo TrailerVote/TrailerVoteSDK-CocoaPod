@@ -153,17 +153,19 @@ __attribute__((visibility("default")))
  Logs the showtimes page shown analytics event
 
  @param movieIdentifier Your cinema identifier
+ @param authority Authority to use for movie lookup by id
  */
-- (void)logShowtimesPageShownEventWithIdentifier:(nonnull NSString *)movieIdentifier;
+- (void)logShowtimesPageShownEventWithIdentifier:(nonnull NSString *)movieIdentifier authority:(nonnull NSString *)authority;
 
 /**
  Logs the ticket purchased analytics event
 
  @param movieID Movie identifier
+ @param authority Authority to use for movie lookup by id
  @param showtimeDate Showtime date for purchased movie ticket
  @param ticketCount Ticket count
  @param totalPrice Total price
  */
-- (void)logTicketPurchasedEventWithMovieID:(nonnull NSString *)movieID showtimeDate:(nonnull NSDate *)showtimeDate ticketCount:(NSUInteger)ticketCount totalPrice:(double)totalPrice;
+- (void)logTicketPurchasedEventWithMovieID:(nonnull NSString *)movieID authority:(nonnull NSString *)authority showtimeDate:(nonnull NSDate *)showtimeDate ticketCount:(NSUInteger)ticketCount totalPrice:(double)totalPrice;
 
 @end

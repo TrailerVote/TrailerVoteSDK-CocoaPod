@@ -22,7 +22,7 @@
 
  @param movieID A movie ID for which to show the showtimes page
  */
-- (void)openShowtimesForMovieID:(nonnull NSString *)movieID;
+- (void)openShowtimesForMovie:(nonnull NSDictionary<NSString *, NSString *> *)movieIdentifiers;
 
 /**
  Called when the received remote notification's action is the trailer recongition screen launch
