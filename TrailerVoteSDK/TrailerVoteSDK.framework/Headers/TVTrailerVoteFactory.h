@@ -168,4 +168,9 @@ __attribute__((visibility("default")))
  */
 - (void)logTicketPurchasedEventWithMovieID:(nonnull NSString *)movieID authority:(nonnull NSString *)authority showtimeDate:(nonnull NSDate *)showtimeDate ticketCount:(NSUInteger)ticketCount totalPrice:(double)totalPrice;
 
+/// Use this method to get the your system movie ID using the TrailerVoteSDK product URL
+/// @param productURL Product URL of the movie
+/// @param completion Completion block
+- (void)getMovieIDsFromProductURL:(nonnull NSURL *)productURL completion:(void (^_Nonnull)(NSDictionary<NSString *, NSString *> * _Nonnull movieIds))completion;
+
 @end
