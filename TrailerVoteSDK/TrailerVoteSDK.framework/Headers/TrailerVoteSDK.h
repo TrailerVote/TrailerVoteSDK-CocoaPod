@@ -18,3 +18,4 @@
 #import "TVVotedTrailersFeedViewController.h"
 #import "TVRemoteNotificationsDelegate.h"
 #import "TVAudioRecognitionViewControllerNewDelegate.h"
+#import "TVVotedMoviesListItem.h"

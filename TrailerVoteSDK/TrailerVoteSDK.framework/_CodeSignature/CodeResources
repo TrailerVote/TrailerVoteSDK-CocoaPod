@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		YFftP4Wy4q7jl2GZtBa/zjsBrAI=
+		rfkkRLetXRLlICp5cPhKvWeEnSw=
 		</data>
 		<key>Headers/TVAudioRecognitionViewControllerNewDelegate.h</key>
 		<data>
@@ -38,7 +38,11 @@
 		</data>
 		<key>Headers/TVVoteDataProvider.h</key>
 		<data>
-		intir0vi2BX/LaN72XAcWSZ0uGo=
+		67QJJfa3rugy6RD71vdhLWeVegU=
+		</data>
+		<key>Headers/TVVotedMoviesListItem.h</key>
+		<data>
+		ay1j5A2RV7zCYsK8/qyfJoRkDHg=
 		</data>
 		<key>Headers/TVVotedTrailersFeedViewController.h</key>
 		<data>
@@ -46,11 +50,11 @@
 		</data>
 		<key>Headers/TrailerVoteSDK.h</key>
 		<data>
-		SN4/CYeIoxGO65abfXE/Yl7wJO0=
+		JR7qDHvQ9Nh2G/2JzN5Jjk+MsKs=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		OVLfsvmQphu/+L3T51s9us/OQaA=
+		NNEpsEdmIj63ZBBY/Zxll2H4pc4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -567,11 +571,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YFftP4Wy4q7jl2GZtBa/zjsBrAI=
+			rfkkRLetXRLlICp5cPhKvWeEnSw=
 			</data>
 			<key>hash2</key>
 			<data>
-			aWL4b/YSgS+AUiY1HD5xfyUF4zEUe36jrcABaLXVJ2s=
+			1BfW/6m+vy4QRynOSsQtuYyb6Fpk1kDDm12hFocNBKE=
 			</data>
 		</dict>
 		<key>Headers/TVAudioRecognitionViewControllerNewDelegate.h</key>
@@ -655,11 +659,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			intir0vi2BX/LaN72XAcWSZ0uGo=
+			67QJJfa3rugy6RD71vdhLWeVegU=
 			</data>
 			<key>hash2</key>
 			<data>
-			VGNcdv+1amUdbiscOCKNXYpvFQbTbE/b9AJbjH19VaY=
+			mcF2ttp5Tz7ZfKhDydk++OZ9Ng/0Rucgg4h5Q24ULeg=
+			</data>
+		</dict>
+		<key>Headers/TVVotedMoviesListItem.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ay1j5A2RV7zCYsK8/qyfJoRkDHg=
+			</data>
+			<key>hash2</key>
+			<data>
+			X27LCkwmPKAsNIOoJw5o3WpJRRxEwVXk5MwwYZrfF/s=
 			</data>
 		</dict>
 		<key>Headers/TVVotedTrailersFeedViewController.h</key>
@@ -677,11 +692,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SN4/CYeIoxGO65abfXE/Yl7wJO0=
+			JR7qDHvQ9Nh2G/2JzN5Jjk+MsKs=
 			</data>
 			<key>hash2</key>
 			<data>
-			ti5VZmknZrniutPwWBz5PmNa04MtQAPHgBnaCJmYFSw=
+			/jGDsVvAxEzrMvOkGY10g0fwLIthSSJ9T9S5MdjB7x8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

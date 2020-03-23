@@ -10,7 +10,8 @@
 
 
 #import <Foundation/Foundation.h>
-#import "TVUserInterestSubmitType.h"
+
+@class TVVotedMoviesListItem;
 
 
 /**
@@ -29,24 +30,8 @@ __attribute__((visibility("default")))
  */
 + (nonnull TVVoteDataProvider *)new NS_UNAVAILABLE;
 
-/**
- Returns the vote for a given audio fragment URL
-
- @param audioFragmentURL An audio fragment URL that the user has voted on previouly
- @param completion Completion block that will receive the vote data or an error
- */
-- (void)getVoteForAudioFragmentURL:(nonnull NSURL *)audioFragmentURL
-                        completion:(void (^ _Nonnull)(TVUserInterestSubmitType vote,
-                                                      NSError * _Nullable error))completion;
-
-/**
- Returns the vote for a given product URL
-
- @param productURL A product URL that the user has voted on previously
- @param completion Completion block that will receive the vote data or an error
- */
-- (void)getVoteForProductURL:(nonnull NSURL *)productURL
-                  completion:(void (^ _Nonnull)(TVUserInterestSubmitType vote,
-                                                NSError * _Nullable error))completion;
+/// Returns the list of previously voted movies
+/// @param completion Completion block that will receive the list
+- (void)getVotedMoviesListWithCompletion:(void (^ _Nonnull)(NSArray<TVVotedMoviesListItem *> * _Nonnull list))completion;
 
 @end
