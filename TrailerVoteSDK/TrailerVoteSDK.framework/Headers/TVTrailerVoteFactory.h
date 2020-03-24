@@ -35,6 +35,9 @@ __attribute__((visibility("default")))
  */
 @property (nonatomic, weak, nullable) id<TVRemoteNotificationsDelegate> remoteNotificationsDelegate;
 
+@property (nonatomic) BOOL releaseAndTicketsNotificationStatus;
+@property (nonatomic) BOOL movieStartingNotificationStatus;
+
 /**
  :nodoc:
  */

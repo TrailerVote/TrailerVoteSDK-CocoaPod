@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		y+ITVtJUVMjWNFQ5uauwPAhBb7Q=
+		i0qwIJc73kIEQ1xI8zYQo6hQZGc=
 		</data>
 		<key>Headers/TVAudioRecognitionViewControllerNewDelegate.h</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Headers/TVTrailerVoteFactory.h</key>
 		<data>
-		DrD685Qohu6L7eBf07k66yZiGoo=
+		Iudp8sb87wIEgkDJnE5CvpdqXK8=
 		</data>
 		<key>Headers/TVUserInterestSubmitType.h</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Uw0APHXOCkSO0sZGpze8iOTyBfk=
+		lWFnADpr8CR/E3SYQwD1NKw6QGQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -571,11 +571,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			y+ITVtJUVMjWNFQ5uauwPAhBb7Q=
+			i0qwIJc73kIEQ1xI8zYQo6hQZGc=
 			</data>
 			<key>hash2</key>
 			<data>
-			LyfVwxAsiDdauLniprRfpSbqg28u3H7mqkMwiR98iYg=
+			CnBIJyDM1vqkq7GGkV94/2367q/gWpkToml2PTfISYQ=
 			</data>
 		</dict>
 		<key>Headers/TVAudioRecognitionViewControllerNewDelegate.h</key>
@@ -637,11 +637,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DrD685Qohu6L7eBf07k66yZiGoo=
+			Iudp8sb87wIEgkDJnE5CvpdqXK8=
 			</data>
 			<key>hash2</key>
 			<data>
-			uJ6ocJdB8MyYl7sByyLPpI5KBd0DObQ5TCJIMsqansY=
+			pwWcEN3/IndmpTVcohvYUNqosI3S4185LkSPdTNBggE=
 			</data>
 		</dict>
 		<key>Headers/TVUserInterestSubmitType.h</key>
