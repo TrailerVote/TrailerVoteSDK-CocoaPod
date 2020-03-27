@@ -11,14 +11,14 @@
 
 #import <UIKit/UIKit.h>
 
-@class TVAudioRecognitionViewControllerNew;
+@class TVAudioRecognitionViewController;
 
 
 /**
  Delegate protocol used to notify the client app durirng the trailier recognition process
  */
 __attribute__((visibility("default")))
-@protocol TVAudioRecognitionViewControllerNewDelegate
+@protocol TVAudioRecognitionViewControllerDelegate
 
 /**
  Called when a special promo clip is recognized after the user has been presented with a social login screen and tapped on Facebook login button

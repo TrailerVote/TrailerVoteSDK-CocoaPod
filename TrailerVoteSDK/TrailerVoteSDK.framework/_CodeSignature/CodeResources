@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		i0qwIJc73kIEQ1xI8zYQo6hQZGc=
+		zKyNG5WWDo8rDkJWT9vD4Foe/kk=
 		</data>
-		<key>Headers/TVAudioRecognitionViewControllerNewDelegate.h</key>
+		<key>Headers/TVAudioRecognitionViewControllerDelegate.h</key>
 		<data>
-		IzSz4OPrXAYCJO4zpGBDsXhLm5Q=
+		TVQhcmRUiuuxJwqUuCIaSu3lNtw=
 		</data>
 		<key>Headers/TVAudioRecognizerDelegate.h</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Headers/TVTrailerVoteFactory.h</key>
 		<data>
-		Iudp8sb87wIEgkDJnE5CvpdqXK8=
+		QEwYdi91HnLYNJZdt7FgVPrBhEo=
 		</data>
 		<key>Headers/TVUserInterestSubmitType.h</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Headers/TrailerVoteSDK.h</key>
 		<data>
-		JR7qDHvQ9Nh2G/2JzN5Jjk+MsKs=
+		Jf/5uEaz2MMSLpx3yTJ6N0WRdOg=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		lWFnADpr8CR/E3SYQwD1NKw6QGQ=
+		y3pOHoOzVPANDdcsfFdtF8tnxI8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -571,22 +571,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			i0qwIJc73kIEQ1xI8zYQo6hQZGc=
+			zKyNG5WWDo8rDkJWT9vD4Foe/kk=
 			</data>
 			<key>hash2</key>
 			<data>
-			CnBIJyDM1vqkq7GGkV94/2367q/gWpkToml2PTfISYQ=
+			mzxrZtc98ReUEweo6jbRw6wg2g8SAG9y8Rj/GuQSeMg=
 			</data>
 		</dict>
-		<key>Headers/TVAudioRecognitionViewControllerNewDelegate.h</key>
+		<key>Headers/TVAudioRecognitionViewControllerDelegate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			IzSz4OPrXAYCJO4zpGBDsXhLm5Q=
+			TVQhcmRUiuuxJwqUuCIaSu3lNtw=
 			</data>
 			<key>hash2</key>
 			<data>
-			MZMhUVoT63Xrjf4BqnCY6bS0oGhJ0Dw8y2ZliRHJ7K0=
+			5C3Nd03lsZfkHHpaEllaPzcEYpM25nu4Srr4FUAIgic=
 			</data>
 		</dict>
 		<key>Headers/TVAudioRecognizerDelegate.h</key>
@@ -637,11 +637,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Iudp8sb87wIEgkDJnE5CvpdqXK8=
+			QEwYdi91HnLYNJZdt7FgVPrBhEo=
 			</data>
 			<key>hash2</key>
 			<data>
-			pwWcEN3/IndmpTVcohvYUNqosI3S4185LkSPdTNBggE=
+			pD5snVzPV+jkhYA9+kU8K92GYwz7mUO26QzruOyVp0Y=
 			</data>
 		</dict>
 		<key>Headers/TVUserInterestSubmitType.h</key>
@@ -692,11 +692,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JR7qDHvQ9Nh2G/2JzN5Jjk+MsKs=
+			Jf/5uEaz2MMSLpx3yTJ6N0WRdOg=
 			</data>
 			<key>hash2</key>
 			<data>
-			/jGDsVvAxEzrMvOkGY10g0fwLIthSSJ9T9S5MdjB7x8=
+			D/7vE+B7PB31EwO/8Hs/+6BBm9U2tMvp3v3DjaP3HCc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

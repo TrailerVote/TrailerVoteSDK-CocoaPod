@@ -17,5 +17,5 @@
 #import "TVProductCarouselViewController.h"
 #import "TVVotedTrailersFeedViewController.h"
 #import "TVRemoteNotificationsDelegate.h"
-#import "TVAudioRecognitionViewControllerNewDelegate.h"
+#import "TVAudioRecognitionViewControllerDelegate.h"
 #import "TVVotedMoviesListItem.h"

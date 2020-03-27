@@ -11,7 +11,7 @@
 
 #import <Foundation/Foundation.h>
 #import "TVRemoteNotificationsDelegate.h"
-#import "TVAudioRecognitionViewControllerNewDelegate.h"
+#import "TVAudioRecognitionViewControllerDelegate.h"
 #import "TVPreloadMode.h"
 
 
@@ -115,7 +115,7 @@ __attribute__((visibility("default")))
 /// Returns a ready-to-use button for launching the In-Cinema Experience screen
 /// @param hostViewController View controller to use for presenting the screen
 /// @param recognitionDelegate Audio recognition delegate
-- (nonnull UIButton *)inCinemaExperienceButtonWithHostViewController:(nonnull UIViewController *)hostViewController recognitionDelegate:(nullable id<TVAudioRecognitionViewControllerNewDelegate>)recognitionDelegate;
+- (nonnull UIButton *)inCinemaExperienceButtonWithHostViewController:(nonnull UIViewController *)hostViewController recognitionDelegate:(nullable id<TVAudioRecognitionViewControllerDelegate>)recognitionDelegate;
 
 /**
  Provides the product carousel feed view controller that can be embedded into specified parent view controller and parent view
@@ -149,7 +149,7 @@ __attribute__((visibility("default")))
  @param hostViewController View controller to use for presenting the modal screen
  @param recognitionDelegate Audio recognition delegate
  */
-- (void)presentTrailerRecognitionViewController:(nonnull UIViewController *)hostViewController recognitionDelegate:(nullable id<TVAudioRecognitionViewControllerNewDelegate>)recognitionDelegate;
+- (void)presentTrailerRecognitionViewController:(nonnull UIViewController *)hostViewController recognitionDelegate:(nullable id<TVAudioRecognitionViewControllerDelegate>)recognitionDelegate;
 
 
 /**
