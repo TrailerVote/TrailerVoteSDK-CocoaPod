@@ -102,8 +102,9 @@ __attribute__((visibility("default")))
  Call this method after receiving a push notification payload either in -[UIApplicationDelegate application:didFinishLaunchingWithOptions:] or -[UIApplicationDelegate application:didReceiveRemoteNotification:fetchCompletionHandler:] in order for the SDK to process the data in the payload. Upon processing the `remoteNotificationsDelegate` will be called asked for performing a specific action.
 
  @param payload Notification's payload
+ @param fetchCompletion Background fetch completion handler to call when the notification processing is done
  */
-- (void)processPushNotificationPayload:(nonnull NSDictionary *)payload;
+- (void)processPushNotificationPayload:(nonnull NSDictionary *)payload fetchCompletion:(void (^ _Nonnull)(UIBackgroundFetchResult result))fetchCompletion;
 
 /**
  Returns a provider class for getting the user votes
