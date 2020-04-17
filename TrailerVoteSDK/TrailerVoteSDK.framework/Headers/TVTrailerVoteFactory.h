@@ -119,24 +119,6 @@ __attribute__((visibility("default")))
 - (nonnull UIButton *)inCinemaExperienceButtonWithHostViewController:(nonnull UIViewController *)hostViewController recognitionDelegate:(nullable id<TVAudioRecognitionViewControllerDelegate>)recognitionDelegate;
 
 /**
- Provides the product carousel feed view controller that can be embedded into specified parent view controller and parent view
-
- @param parentVC Parent view controller
- @param parentView Parent view
- @return An initialized view controller containing the product carousel feed
- */
-- (nonnull TVProductCarouselViewController *)productCarouselViewControllerEmbeddedInParentViewController:(nullable UIViewController *)parentVC parentView:(nullable UIView *)parentView;
-
-/**
- Provides the voted trailers feed view controller that can be embedded into specified parent view controller and parent view
-
- @param parentVC Parent view controller
- @param parentView Parent view
- @return An initialized view controller containing the voted trailers feed
- */
-- (nonnull TVVotedTrailersFeedViewController *)votedTrailersFeedViewControllerEmbeddedInParentViewController:(nullable UIViewController *)parentVC parentView:(nullable UIView *)parentView;
-
-/**
  Presents the video player screen for specified movie trailer url
 
  @param hostViewController View controller to use for presenting the modal screen

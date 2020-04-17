@@ -20,7 +20,7 @@
 /**
  Called when the received remote notification's action is the showtimes page launch
 
- @param movieID A movie ID for which to show the showtimes page
+ @param movieIdentifiers A dictionary of found movie identifiers
  */
 - (void)openShowtimesForMovie:(nonnull NSDictionary<NSString *, NSString *> *)movieIdentifiers;
 
