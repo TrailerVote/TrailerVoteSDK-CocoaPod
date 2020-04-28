@@ -123,8 +123,13 @@ __attribute__((visibility("default")))
 
  @param hostViewController View controller to use for presenting the modal screen
  @param movieTrailerURL Movie trailer url
+ @param movieID Movie identifier
+ @param authority Authority to use to movie lookup by id
  */
-- (void)presentVideoPlayerViewController:(nonnull UIViewController *)hostViewController movieTrailerURL:(nonnull NSURL *)movieTrailerURL;
+- (void)presentVideoPlayerViewController:(nonnull UIViewController *)hostViewController
+                         movieTrailerURL:(nonnull NSURL *)movieTrailerURL
+                                 movieID:(nonnull NSString *)movieID
+                               authority:(nonnull NSString *)authority;
 
 /**
  Presents the trailer recognition screen from specified host view controller
