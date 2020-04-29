@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "TrailerVoteSDK"
-  s.version      = "1.3.13"
+  s.version      = "1.3.15"
   s.summary      = "An official TrailerVote iOS SDK"
 
   # This description is used to generate tags and improve search results.
@@ -81,7 +81,7 @@ Pod::Spec.new do |s|
 
   #s.source       = { :git => "https://github.com/TrailerVote/TrailerVoteSDK-iOS-Pod.git", :tag => "1.1.0" }
 
-  s.source        = { :http => "https://pods.dev.trailervote.com/TrailerVoteSDK-1.3.13.framework.zip" }
+  s.source        = { :http => "https://pods.dev.trailervote.com/TrailerVoteSDK-1.3.15.framework.zip" }
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
